@@ -1,17 +1,20 @@
-### Hi there 👋
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<img style="display: block;-webkit-user-select: none;margin: auto;background-color: hsl(0, 0%, 90%);" src="https://www.sanjuan.edu/cms/lib/CA01902727/Centricity/Domain/8408/coding_function.gif">
+
+### Hi there, I'm EREN AKBAS👋
+
+##
 
 
-[![Github Badge]((https://tr.m.wikipedia.org/wiki/Dosya:Instagram_logo_2022.svg))](https://github.com/erenakbas57) 
-[![Instagram Badge](https://img.shields.io/badge/-Instagram-C13584?style=flat-quare&labelColor=C13584&logo=instagram&logoColor=white&link=link)]((https://www.instagram.com/_erenakbas57) 
-[![Medium Badge](https://img.shields.io/badge/-Medium-757575?style=flat-quare&labelColor=757575&logo=Medium&logoColor=white&link=link)](link) 
-[![Blogger Badge](https://img.shields.io/badge/-Blogger-FF9800?style=flat-quare&labelColor=FF9800&logo=Blogger&logoColor=white&link=link)](link)
+
+[<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e9/Linkedin_icon.svg/2048px-Linkedin_icon.svg.png" align="left" />][linkedin]
+[<img width="22" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/e7/Instagram_logo_2016.svg/2048px-Instagram_logo_2016.svg.png" align="left" />][instagram]
+
+[linkedin]:https://www.linkedin.com
+[instagram]:https://www.instagram.com/_erenakbas57/
+
+## My Stats
+![Github stats 2](https://github-readme-stats.vercel.app/api?username=erenakbas57&show_icons=true&theme=radical)
+
+## Langs
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=erenakbas57&layout=compact&theme=tokyonight)](https://github.com/erenakbas57)
