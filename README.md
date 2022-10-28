@@ -10,6 +10,10 @@
 
 <br>
 
+[![erenakbas57's 42 stats](https://badge42.vercel.app/api/v2/cl5qpmbbx000609mkwea8iljt/stats?cursusId=9&coalitionId=196)](https://github.com/JaeSeoKim/badge42)
+
+<br>
+
 <p align=center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=erenakbas57&show_icons=true&theme=dark&locale=tr" alt="erenakbas57" width="49%" /></p>
 <br>
 <p align=center>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenakbas57&show_icons=true&theme=radical&locale=tr&layout=compact" alt="erenakbas57" width="49%"/></p>
