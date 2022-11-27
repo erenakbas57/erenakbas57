@@ -1,5 +1,3 @@
-<img align="center" src="https://media4.giphy.com/media/95OIHJppkEK6Q/giphy.gif?cid=790b7611e75d169c9a4074652099b4be9708f2542366bea0&rid=giphy.gif&ct=g" alt="" height="400" width="1200" />
-
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&size=30&color=C11212&width=300&lines=I+am+developer"></a></h3>
 
 <p align="center"> 
@@ -24,10 +22,10 @@
 ## Ecole 42 Projects Progress
 | No   | Project        | Status   |     No  | Project           | Status | 
 | :---:| :---:          | :---:    |    :---:| :---:             | :---:  |
-| 1    | libft          | <img src='https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2861198'></img>         |     20  | NetPractice       |    🔒   |
+| 1    | libft          | <img src='https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2861198'></img>     |     20  | NetPractice       |    🔒   |
 | 2    | born2beroot    | 🔒       |     21  | ft_containers     |    🔒   |
-| 3    | ft_printf      | 🔒       |     22A | ft_irc            |    🔒   |
-| 4    | get_next_line  | 🔒       |     22B | webserv           |    🔒   |
+| 3    | ft_printf      | <img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2878605" alt="makbas's 42 ft_printf Score" /> |     22A | ft_irc            |    🔒   |
+| 4    | get_next_line  | <img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2896782" alt="makbas's 42 get_next_line Score" />|     22B | webserv           |    🔒   |
 | 5A   | FdF            | 🔒       |     23  | inception         |    🔒   |
 | 5B   | so_long        | 🔒       |     24  | ft_transcendence  |    🔒   |
 | 6A   | minitalk       | 🔒       |     EXAM | EXAMS            |    X    |
