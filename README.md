@@ -20,15 +20,15 @@
 </p>
 
 ## Ecole 42 Projects Progress
-| No   | Project        | Status   |     No  | Project           | Status | 
-| :---:| :---:          | :---:    |    :---:| :---:             | :---:  |
-| 1    | libft          | <img src='https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2861198'></img>     |     20  | NetPractice       |    🔒   |
-| 2    | born2beroot    | 🔒       |     21  | ft_containers     |    🔒   |
-| 3    | ft_printf      | <img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2878605" alt="makbas's 42 ft_printf Score" /> |     22A | ft_irc            |    🔒   |
-| 4    | get_next_line  | <img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2896782" alt="makbas's 42 get_next_line Score" />|     22B | webserv           |    🔒   |
+| No   | Project        | Status    |     No  | Project           | Status | 
+| :---:| :---:          | :---:     |    :---:| :---:             |---------|
+| 1    | libft          | 118       |     20  | NetPractice       |    🔒   |
+| 2    | born2beroot    | 120       |     21  | ft_containers     |    🔒   |
+| 3    | ft_printf      | 100       |     22A | ft_irc            |    🔒   |
+| 4    | get_next_line  | 100       |     22B | webserv           |    🔒   |
 | 5A   | FdF            | 🔒       |     23  | inception         |    🔒   |
 | 5B   | so_long        | 🔒       |     24  | ft_transcendence  |    🔒   |
-| 6A   | minitalk       | 🔒       |     EXAM | EXAMS            |    X    |
+| 6A   | minitalk       | 🔒       |     EXAM | EXAMS            |    X     |
 | 6B   | pipex          | 🔒       |     A   | Exam Rank 02      |    🔒   |
 | 7    | push_swap      | 🔒       |     B   | Exam Rank 03      |    🔒   |
 | 8    | minishell      | 🔒       |     C   | Exam Rank 04      |    🔒   |
