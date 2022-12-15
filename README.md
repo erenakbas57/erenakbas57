@@ -22,10 +22,10 @@
 ## Ecole 42 Projects Progress
 | No   | Project        | Status    |     No  | Project           | Status | 
 | :---:| :---:          | :---:     |    :---:| :---:             |---------|
-| 1    | libft          | 118       |     20  | NetPractice       |    🔒   |
-| 2    | born2beroot    | 120       |     21  | ft_containers     |    🔒   |
-| 3    | ft_printf      | 100       |     22A | ft_irc            |    🔒   |
-| 4    | get_next_line  | 100       |     22B | webserv           |    🔒   |
+| 1    | libft          | `118`       |     20  | NetPractice       |    🔒   |
+| 2    | born2beroot    | `120`       |     21  | ft_containers     |    🔒   |
+| 3    | ft_printf      | `100`       |     22A | ft_irc            |    🔒   |
+| 4    | get_next_line  | `100`       |     22B | webserv           |    🔒   |
 | 5A   | FdF            | 🔒       |     23  | inception         |    🔒   |
 | 5B   | so_long        | 🔒       |     24  | ft_transcendence  |    🔒   |
 | 6A   | minitalk       | 🔒       |     EXAM | EXAMS            |    X     |
