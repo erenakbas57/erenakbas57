@@ -1,9 +1,8 @@
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&size=30&color=C11212&width=300&lines=I+am+developer"></a></h3>
 
 <p align="center"> 
-<a href="https://www.instagram.com/_erenakbas57" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" alt="https://www.instagram.com/_erenakbas57" height="30" width="30" /></a>
+<a href="https://www.instagram.com/erenakbasm" target="blank"><img align="center" src="https://cdn.cdnlogo.com/logos/i/4/instagram.svg" alt="https://www.instagram.com/_erenakbas57" height="30" width="30" /></a>
 <a href="[https://www.linkedin.com](https://www.linkedin.com/in/erenakbas/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com" height="30" width="30" /></a>
-<a href="" target="blank"><img align="center" src="https://seeklogo.com/images/G/google-logo-28FA7991AF-seeklogo.com.png" alt="" height="30" width="30" /></a>
  </p>
 
 <br>
