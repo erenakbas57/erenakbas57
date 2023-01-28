@@ -5,14 +5,6 @@
 <a href="[https://www.linkedin.com](https://www.linkedin.com/in/erenakbas/)" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="https://www.linkedin.com" height="30" width="30" /></a>
  </p>
 
-<br>
-
-
-<br>
-
-<p align=center><img align="center" src="https://github-readme-stats.vercel.app/api?username=erenakbas57&show_icons=true&theme=dark&locale=tr" alt="erenakbas57" width="49%" /></p>
-<br>
-<p align=center><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=erenakbas57&show_icons=true&theme=radical&locale=tr&layout=compact" alt="erenakbas57" width="49%"/></p>
 
 <p align="center">
 <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/stats?cursusId=21&coalitionId=196" alt="makbas's 42 stats" /></a>
@@ -21,15 +13,15 @@
 ## Ecole 42 Projects Progress
 | No   | Project        | Status    |     No  | Project           | Status | 
 | :---:| :---:          | :---:     |    :---:| :---:             |---------|
-| 1    | libft          | `118`     |     20  | NetPractice       |    🔒   |
-| 2    | born2beroot    | `120`     |     21  | ft_containers     |    🔒   |
-| 3    | ft_printf      | `100`     |     22A | ft_irc            |    🔒   |
-| 4    | get_next_line  | `100`     |     22B | webserv           |    🔒   |
-| 5A   | FdF            |  XXX      |     23  | inception         |    🔒   |
-| 5B   | so_long        | `100`     |     24  | ft_transcendence  |    🔒   |
-| 5C   | Fractal        |  XXX      |
-| 6A   | minitalk       | 🔒       |      EXAM | EXAMS            |    X    |
-| 6B   | pipex          | 🔒       |      A   | Exam Rank 02      |    🔒   |
+| 1    | libft          | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2861198" alt="makbas's 42 Libft Score" /></a>     |     20  | NetPractice       |    🔒   |
+| 2    | born2beroot    | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2901555" alt="makbas's 42 Born2beroot Score" /></a>     |     21  | ft_containers     |    🔒   |
+| 3    | ft_printf      | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2878605" alt="makbas's 42 ft_printf Score" /></a>     |     22A | ft_irc            |    🔒   |
+| 4    | get_next_line  | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2896782" alt="makbas's 42 get_next_line Score" /></a>     |     22B | webserv           |    🔒   |
+| 5A   | FdF            |---------------|     23  | inception         |    🔒   |
+| 5B   | so_long        | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2925252" alt="makbas's 42 so_long Score" /></a>     |     24  | ft_transcendence  |    🔒   |
+| 5C   | Fractal        |---------------|
+| 6A   | minitalk       | <a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2934787" alt="makbas's 42 minitalk Score" /></a>       |      EXAM | EXAMS            |    X    |
+| 6B   | pipex          |---------------|      A   | Exam Rank 02      |    🔒   |
 | 7    | push_swap      | 🔒       |      B   | Exam Rank 03      |    🔒   |
 | 8    | minishell      | 🔒       |      C   | Exam Rank 04      |    🔒   |
 | 9    | philosphers    | 🔒       |      D   | Exam Rank 05      |    🔒   |
