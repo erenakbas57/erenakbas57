@@ -3,7 +3,7 @@
 
 
 
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&size=30&color=AA00F7&width=300&lines=I+am+developing;Web+apps;Mobile+apps."></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?duration=2500&size=30&color=AA00F7&width=300&lines=I+am+developer"></a></h3>
 
 <p align="center">
   <a href="https://www.linkedin.com/in/erenakbas/" target="blank">
