@@ -1,5 +1,5 @@
 
-<img src="https://media.tenor.com/UrlkjG6whskAAAAC/matrix-blue-pill.gif" alt="redpill" width="600" height="300" align="center">
+
 
 
 
