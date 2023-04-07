@@ -100,12 +100,12 @@
     <td>➖➖➖</td>
     <td>A</td>
     <td> Exam Rank 02</td>
-    <td>🔒</td>
+    <td>👨‍💻👨‍💻👨‍💻</td>
   </tr>
   <tr>
     <td>7</td>
     <td><a href="https://github.com/erenakbas57/push_swap">push_swap</a></td>
-    <td>✍️✍️✍️</td>
+    <td>✅8️⃣4️⃣</td>
     <td>B</td>
     <td>Exam Rank 03</td>
     <td>🔒</td>
