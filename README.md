@@ -120,8 +120,8 @@
   </tr>
   <tr>
     <td>9</td>
-    <td>philosphers</td>
-    <td>👨‍💻🧑‍💻🧑‍💻</td>
+    <td><a href="https://github.com/erenakbas57/philosophers">philosophers</a></td>
+    <td>✅1️⃣0️⃣0️⃣</td>
     <td>D</td>
     <td>Exam Rank 05</td>
     <td>🔒</td>
