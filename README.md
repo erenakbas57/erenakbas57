@@ -108,7 +108,7 @@
     <td>✅8️⃣4️⃣</td>
     <td>B</td>
     <td>Exam Rank 03</td>
-    <td>🔒</td>
+    <td>✅1️⃣0️⃣0️⃣</td>
   </tr>
   <tr>
     <td>8</td>
