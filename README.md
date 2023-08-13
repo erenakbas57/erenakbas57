@@ -1,14 +1,15 @@
-<h1 align="center">Hey bro, I'm Muhammed Eren AKBAŞ</h1>
-<h3 align="center">Software is just a virtue. The main goal is to improve myself</h3>
-
-
-
 <h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=40&duration=1000&pause=100&color=F70000&center=true&vCenter=true&multiline=true&width=250&height=150&lines=WELCOME;TO;REAL+WORLD;-" alt="Typing SVG" /></a></h3>
 
+<h1 align="left">Hey there, I'm Muhammed Eren AKBAŞ</h1>
+<h3 align="left">                      Software is just a virtue. The main goal is to improve myself</h3>
 
 
-<details align="center">
-<summary><h2>Ecole42 Projects Progress</h2></summary>
+
+
+
+<details align="left">
+<summary><h1>Ecole42 Projects Progress</h1></summary>
+<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/stats?cursusId=21&coalitionId=196" alt="makbas's 42 stats" /></a>
 <table align="center">
 <thead>
   <tr>
@@ -24,7 +25,7 @@
   <tr>
     <td>1</td>
     <td><a href="https://github.com/erenakbas57/libft">libft</a></td>
-    <td>✅1️⃣1️⃣8️⃣</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2861198" alt="makbas's 42 Libft Score" /></a></td>
     <td>20</td>
     <td>NetPractice</td>
     <td>🔒</td>
@@ -32,7 +33,7 @@
   <tr>
     <td>2</td>
     <td><a href="https://github.com/erenakbas57/born2beroot">born2beroot</a></td>
-    <td>✅1️⃣2️⃣0️⃣</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2901555" alt="makbas's 42 Born2beroot Score" /></a></td>
     <td>21</td>
     <td>ft_containers</td>
     <td>🔒</td>
@@ -40,7 +41,7 @@
   <tr>
     <td>3</td>
     <td><a href="https://github.com/erenakbas57/ft_printf">ft_printf</a></td>
-    <td>✅1️⃣0️⃣0️⃣</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2878605" alt="makbas's 42 ft_printf Score" /></a></td>
     <td>22A</td>
     <td>ft_irc</td>
     <td>🔒</td>
@@ -48,7 +49,7 @@
   <tr>
     <td>4</td>
     <td><a href="https://github.com/erenakbas57/get_next_line">get_next_line</a></td>
-    <td>✅1️⃣2️⃣5️⃣</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2896782" alt="makbas's 42 get_next_line Score" /></a></td>
     <td>22B</td>
     <td>webserv</td>
     <td>🔒</td>
@@ -64,7 +65,7 @@
   <tr>
     <td>5B</td>
     <td><a href="https://github.com/erenakbas57/so_long">so_long</a></td>
-    <td>✅1️⃣1️⃣0️⃣</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2925252" alt="makbas's 42 so_long Score" /></a></td>
     <td>24</td>
     <td>ft_transcendence</td>
     <td>🔒</td>
@@ -80,7 +81,7 @@
   <tr>
     <td>6A</td>
     <td><a href="https://github.com/erenakbas57/minitalk">minitalk</a></td>
-    <td>✅1️⃣0️⃣0️⃣</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2934787" alt="makbas's 42 minitalk Score" /></a></td>
     <td>EXAM</td>
     <td>EXAMS</td>
     <td>STATUS</td>
@@ -91,15 +92,15 @@
     <td>➖➖➖</td>
     <td>A</td>
     <td> Exam Rank 02</td>
-    <td>✅1️⃣0️⃣0️⃣</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/2924550" alt="makbas's 42 Exam Rank 02 Score" /></a></td>
   </tr>
   <tr>
     <td>7</td>
     <td><a href="https://github.com/erenakbas57/push_swap">push_swap</a></td>
-    <td>✅8️⃣4️⃣</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/3010512" alt="makbas's 42 push_swap Score" /></a></td>
     <td>B</td>
     <td>Exam Rank 03</td>
-    <td>✅1️⃣0️⃣0️⃣</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/3143117" alt="makbas's 42 Exam Rank 03 Score" /></a></td>
   </tr>
   <tr>
     <td>8</td>
@@ -112,7 +113,7 @@
   <tr>
     <td>9</td>
     <td><a href="https://github.com/erenakbas57/philosophers">philosophers</a></td>
-    <td>✅1️⃣0️⃣0️⃣</td>
+    <td><a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/project/3153576" alt="makbas's 42 Philosophers Score" /></a></td>
     <td>D</td>
     <td>Exam Rank 05</td>
     <td>🔒</td>
