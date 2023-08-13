@@ -214,7 +214,7 @@
 <a href="https://linkedin.com/in/erenakbas" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="erenakbas" height="40" width="40" /></a>
 <a href="https://instagram.com/erenakbas57" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg" alt="erenakbas57" height="40" width="40" /></a>
 <a href="https://medium.com/@erenakbas" target="blank"><img align="center" src="https://upload.wikimedia.org/wikipedia/commons/thumb/e/ec/Medium_logo_Monogram.svg/1200px-Medium_logo_Monogram.svg.png" alt="@erenakbas" height="40" width="40" /></a>
-<a href="mailto:m.erenakbas57@gmail.com" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png" alt="erenakbas" height="55" width="55" /></a>
+<a href="mailto:m.erenakbas57@gmail.com" target="blank"><img align="center" src="https://freelogopng.com/images/all_img/1657906383gmail-icon-png.png" alt="erenakbas" height="40" width="40" /></a>
 </p>
 
 <h2 align="left">Languages and Tools:</h2>
