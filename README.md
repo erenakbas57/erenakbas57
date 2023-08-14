@@ -7,9 +7,9 @@
 
 
 
-<details align="left">
+<details align="center">
 <summary><h1>Ecole42 Projects Progress</h1></summary>
-<a href="https://github.com/JaeSeoKim/badge42"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/stats?cursusId=21&coalitionId=196" alt="makbas's 42 stats" /></a>
+<a href="https://github.com/JaeSeoKim/badge42" align="center"><img src="https://badge42.vercel.app/api/v2/cl9slj3dw00230fl1ticaj9fo/stats?cursusId=21&coalitionId=196" alt="makbas's 42 stats" align="center"/></a>
 <table align="center">
 <thead>
   <tr>
@@ -105,7 +105,7 @@
   <tr>
     <td>8</td>
     <td>minishell</td>
-    <td>🔒</td>
+    <td>✍️✍️✍️</td>
     <td>C</td>
     <td>Exam Rank 04</td>
     <td>🔒</td>
