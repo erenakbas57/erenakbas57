@@ -115,7 +115,7 @@
   <tr>
     <td>8</td>
     <td>minishell</td>
-    <td>✍️✍️✍️</td>
+    <td>1️⃣0️⃣0️⃣</td>
     <td>23A</td>
     <td>ft_irc</td>
     <td>🔒</td>
@@ -147,7 +147,7 @@
   <tr>
     <td>11</td>
     <td>CPP Module 00</td>
-    <td>🔒</td>
+    <td>8️⃣0️⃣</td>
     <td>A</td>
     <td>Exam Rank 02</td>
     <td>1️⃣0️⃣0️⃣<br></td>
@@ -155,7 +155,7 @@
   <tr>
     <td>12</td>
     <td>CPP Module 01</td>
-    <td>🔒</td>
+    <td>1️⃣0️⃣0️⃣</td>
     <td>B</td>
     <td>Exam Rank 03</td>
     <td>1️⃣0️⃣0️⃣</td>
@@ -163,7 +163,7 @@
   <tr>
     <td>13</td>
     <td>CPP Module 02</td>
-    <td>🔒</td>
+    <td>8️⃣0️⃣</td>
     <td>C</td>
     <td>Exam Rank 04</td>
     <td>🔒</td>
@@ -171,7 +171,7 @@
   <tr>
     <td>14</td>
     <td>CPP Module 03</td>
-    <td>🔒</td>
+    <td>8️⃣0️⃣</td>
     <td>D</td>
     <td>Exam Rank 05</td>
     <td>🔒</td>
@@ -179,7 +179,7 @@
   <tr>
     <td>15</td>
     <td>CPP Module 04</td>
-    <td>🔒</td>
+    <td>8️⃣0️⃣</td>
     <td>E</td>
     <td>Exam Rank 06</td>
     <td>🔒</td>
