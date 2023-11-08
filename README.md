@@ -1,4 +1,4 @@
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=40&duration=1000&pause=100&color=F70000&center=true&vCenter=true&multiline=true&width=250&height=150&lines=WELCOME;TO;REAL+WORLD;-" alt="Typing SVG" /></a></h3>
+<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=40&duration=1000&pause=100&color=F70000&center=true&vCenter=true&multiline=true&width=250&height=150&lines=WELCOME;TO;REAL+WORLD;-" alt="Typing SVG" </img></a></h3>
 
 <h2 align="left">Hi 👋! My name is Eren<br>I'm a Junior Software Developer from Turkey</h2>
 <h3 align="left">Software is just a virtue. The main goal is to improve myself</h3>
