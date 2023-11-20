@@ -102,7 +102,7 @@
     <td>1️⃣0️⃣0️⃣</td>
     <td>21</td>
     <td>NetPractice</td>
-    <td>🔒</td>
+    <td>1️⃣0️⃣0️⃣</td>
   </tr>
   <tr>
     <td>7</td>
@@ -114,7 +114,7 @@
   </tr>
   <tr>
     <td>8</td>
-    <td>minishell</td>
+    <td><a href="https://github.com/erenakbas57/Minishell"></a></td>
     <td>1️⃣0️⃣0️⃣</td>
     <td>23A</td>
     <td>ft_irc</td>
