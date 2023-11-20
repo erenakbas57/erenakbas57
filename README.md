@@ -114,7 +114,7 @@
   </tr>
   <tr>
     <td>8</td>
-    <td><a href="https://github.com/erenakbas57/Minishell"></a></td>
+    <td><a href="https://github.com/erenakbas57/Minishell">Minishell</a></td>
     <td>1️⃣0️⃣0️⃣</td>
     <td>23A</td>
     <td>ft_irc</td>
