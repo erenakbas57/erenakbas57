@@ -3,9 +3,9 @@
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erenakbas57&label=Profile%20views&color=0e75b6&style=flat" alt="erenakbas57" /> </p>
 
-- 🔭 I’m currently working on **Cub3D**
+- 🔭 I’m currently working on **Transcendence**
 
-- 🌱 I’m currently learning **Flutter**
+- 🌱 I’m currently learning **Flutter / React / Django / JS**
 
 <div align="center">
   <img width=400 height=200 src="https://github-readme-stats.vercel.app/api/top-langs?username=erenakbas57&show_icons=true&locale=en&layout=compact" alt="erenakbas57" />
