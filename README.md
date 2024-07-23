@@ -49,6 +49,6 @@
 
 <h2 align="left">Support:</h2>
 <p>
-  <a href="https://www.buymeacoffee.com/merenakbas"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="250" height="75"</img></a>
+  <a href="https://www.buymeacoffee.com/merenakbas" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="250" height="75"</img></a>
 </p>
 
