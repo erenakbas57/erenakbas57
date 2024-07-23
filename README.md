@@ -1,5 +1,3 @@
-<h3 align="center"><a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.herokuapp.com?font=Roboto+Mono&size=40&duration=1000&pause=100&color=F70000&center=true&vCenter=true&multiline=true&width=250&height=150&lines=WELCOME;TO;REAL+WORLD;-" alt="Typing SVG" </img></a></h3>
-
 <h1 align="center">Hi 👋, I'm Eren</h1>
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=erenakbas57&label=Profile%20views&color=0e75b6&style=flat" alt="erenakbas57" /> </p>
 
@@ -16,13 +14,13 @@
 
 ##
 <div align="center">
-  <a href="mailto:m.erenakbas57@gmail.com" target="_blank">
+  <a href="mailto:erenakbas057@gmail.com" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&labelColor=&style=flat" height="50" alt="gmail logo"  />
   </a>
   <a href="https://www.linkedin.com/in/erenakbas/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=erenakbas&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=flat" height="50" alt="linkedin logo"  />
   </a>
-  <a href="https://www.instagram.com/erenakbas57/" target="_blank">
+  <a href="https://www.instagram.com/erenakbas057/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=erenakbas57&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=flat" height="50" alt="instagram logo"  />
   </a>
   <a href="https://medium.com/@erenakbas" target="_blank">
