@@ -46,9 +46,3 @@
   <img src="https://www.vectorlogo.zone/logos/sqlite/sqlite-icon.svg" alt="sqlite" width="40" height="40"/> </a> 
 </p>
 
-
-<h2 align="left">Support:</h2>
-<p>
-  <a href="https://www.buymeacoffee.com/merenakbas" target="_blank"> <img align="center" src="https://cdn.buymeacoffee.com/buttons/v2/default-yellow.png" width="250" height="75"</img></a>
-</p>
-
